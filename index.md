@@ -1,7 +1,6 @@
 
 <html lang="en" dir="ltr">
 
-
 <body>
     <meta charset="utf-8">
   <title>Ethan's Game's Website</title>
